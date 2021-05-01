@@ -10,4 +10,4 @@ User can view history in the dashboard
 install node dependencies
 
 ![Alt text](fitness_tracker_screenshot.PNG?raw=true "Preview image of Scheduler")
-SITE LINK: 
+SITE LINK: https://still-earth-56410.herokuapp.com/
